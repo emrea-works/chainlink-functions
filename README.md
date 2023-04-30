@@ -1,5 +1,10 @@
 # Chainlink Functions Starter Kit
 
+**Repository Owner Note**
+
+Locally forked from [Original Repository](https://functions.chain.link/) to study purpose. 
+
+
 - [Chainlink Functions Starter Kit](#chainlink-functions-starter-kit)
 - [Overview](#overview)
   - [Supported Networks](#supported-networks)
